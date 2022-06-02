@@ -1,0 +1,23 @@
+h1
+{
+    text-decoration: rgb(199, 23, 176);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large; 
+    text-align: center; 
+}
+body
+{
+  background-color: rgba(22, 138, 206, 0.336);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: medium;
+  image-rendering: auto;
+  text-align: center;  
+}
+#team
+{
+    text-decoration: wavy;
+    font-size: larger;
+    font-style: italic;
+    float: inherit;
+    text-align: center;
+}

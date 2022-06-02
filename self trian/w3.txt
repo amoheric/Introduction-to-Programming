@@ -1,0 +1,43 @@
+Using document.write() after an HTML document is loaded, will delete all existing HTML:
+
+<!-- Write your comments in HTML here -->
+ 
+CMMT IN JS // or between /* and */ 
+
+An inline CSS uses the style attribute of an HTML element.
+
+ // Declare 3 variables
+ // Assign the value 5 to a
+ // Assign the value 6 to b
+ // Assign the sum of a and b to c
+
+var	          =Declares a variable
+let	          =Declares a block variable
+const	=Declares a block constant
+if	          =Marks a block of statements to be executed on a condition
+switch	=Marks a block of statements to be executed in different cases
+for	          =Marks a block of statements to be executed in a loop
+function	=Declares a function
+return	=Exits a function
+try	          =Implements error handling to a block of statements
+
+
+Encoding translates numbers into binary. Character sets translates characters to numbers.
+
+JavaScript objects are written with curly braces {}.
+
+let x;                 // Now x is undefined
+x = 5;                // Now x is a Number
+x = "John";      // Now x is a String
+
+
+
+From this second week's discussions, I learned that functions are built and used across multiple programming languages—all start with Modules, a group of statements that perform specific tasks within a program.
+
+Modules can be called whenever it is needed in the program; to execute a module, you have to call it. They do contain a header and a body used in Javascript files with certain plugins. But unlike the function, which is almost the same as a module but returns a value back to the program, while modules do not. Functions work in a systematized order like input, processing, and then output, respectively.
+
+Functions are built-in and inherited from a programming language or console, such as mathematical functions, data type conversion functions, formatting, and the string function.  
+
+Boolean values help distinguish between only two comparable outcomes, which can be either true or false. 
+
+It is also important that a programmer makes their code easy to read by making use of the white spaces which the console doesn't even notice, as well as leaving possible comments.
