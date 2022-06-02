@@ -1,0 +1,20 @@
+h1
+{
+    text-decoration: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;  
+}
+body
+{
+  background-color: cornsilk;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: medium;  
+}
+#team
+{
+    text-decoration: dashed;
+    font-size: larger;
+    font-style: italic;
+    float: inherit;
+    text-align: center;
+}
