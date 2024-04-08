@@ -14,7 +14,7 @@ Pages Created:
 Notable Styling Choices:
 
 - I opted for a warm color palette to evoke the cozy, welcoming atmosphere of our café.
-- Typography: “Georgia’, ‘Merriweather’, ‘Times New Roman “ font is used for headings, and “ Times, serif “ for body text, balancing readability with style.
+- Typography: “Georgia’,‘Merriweather’,‘Times New Roman “ font is used for headings, and “ Times, serif “ for body text, balancing readability with style.
 - The site is fully responsive, with media queries ensuring it looks great on devices of all sizes, from mobile phones to desktop computers.
 
 Technical Aspects:
@@ -25,8 +25,8 @@ Technical Aspects:
 
 How to View:
 
-- The project is hosted on GitHub. HTML and CSS files can be viewed and downloaded from [GitHub repository link].
-- Use the GitHub HTML previewer to view the page live: [Link to GitHub HTML previewer with your project].
+- The project is hosted on GitHub. HTML and CSS files can be viewed and downloaded from https://github.com/amoheric/Introduction-to-Programming/blob/main/Web%20Developing%20From%20Scratch(HTML5%2CCSS%2CJavaScript)/coffe%20shop.html.
+- Use the GitHub HTML previewer to view the page live: [https://htmlpreview.github.io/] https://htmlpreview.github.io/?https://github.com/amoheric/Introduction-to-Programming/blob/main/Web%20Developing%20From%20Scratch(HTML5%2CCSS%2CJavaScript)/coffe%20shop.html.
 
 Validation:
 
